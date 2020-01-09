@@ -1,0 +1,10 @@
+# various
+
+# temp files
+*~
+
+# vim
+*.bak
+*.swp
+*.swo
+*.vim
