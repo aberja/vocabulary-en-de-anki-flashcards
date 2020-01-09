@@ -1,5 +1,5 @@
-# Deck of Anki Flashcards with English-German vocabulary
-Contains a deck of flashcards of vocabularies to learn either English-German or German-English with the [Anki](https://apps.ankiweb.net/) flashcard system. The deck is suitable for advanced speakers. It contains terms wich are not frequently used, terms that are often misspelled, and fixed expressions. 
+# Deck of Anki flashcards with English-German vocabulary
+Contains a deck of flashcards of vocabularies to learn either English-German or German-English with the [Anki](https://apps.ankiweb.net/) flashcard system. The deck is suitable for advanced speakers. It contains terms wich are less frequently used, terms that are often misspelled, and fixed expressions.
 
 ## Get the Deck of Flashcards
 ### Download Deck from GitHub
