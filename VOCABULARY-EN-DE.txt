@@ -317,8 +317,8 @@ some good arguments	einige gute Argumente
 jitney	unlicensed taxi cab
 reprehensible	verwerflich
 to misconstrue sth.	etw. missdeuten, fehldeuten
-bonafide	in gutem Glauben
-unrepentant	reuelos, nicht reumütig
+bonafide	ehrlich, aufrichtig
+unrepentant	reuelos
 noncombustible	nicht brennbar
 to ameliorate sth.	etw. verbessern
 upwards compatible	aufwärtskompatibel
@@ -589,3 +589,8 @@ property management	Hausverwaltung
 retention	Speicherung, Beibehaltung
 humongous	gigantisch
 colleagues	Kolleginnen / Kollegen
+yeast	Hefe
+burgeoning	aufkeimend
+clay	Lehm
+precedent	Präzedenzfall
+to hamstring sth.	etw. lahmlegen
