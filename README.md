@@ -18,7 +18,9 @@ The deck is suitable for advanced speakers. It contains terms wich are less freq
 ## Get the Deck of Flashcards
 ### Download Deck
 The file `VOCABULARY-EN-DE.txt` contains the deck with all flashcards in the Anki deck card farmat format in plain text with the `.txt` file extension. 
+
 You can **download the deck from [GitLab](https://gitlab.com/jonasjacek/vocabulary-en-de-anki-flashcards/raw/master/VOCABULARY-EN-DE.txt) or [GitHub](https://github.com/jonasjacek/vocabulary-en-de-anki-flashcards/raw/master/VOCABULARY-EN-DE.txt)**. 
+
 The file `VOCABULARY-EN-DE.txt` can be imported into Anki. See the Anki manual for a [detailed description](https://apps.ankiweb.net/docs/manual.html#importing).
 
 
