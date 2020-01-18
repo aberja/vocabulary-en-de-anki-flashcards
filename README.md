@@ -3,9 +3,23 @@
 
 The deck is suitable for advanced speakers. It contains terms wich are less frequently used, terms that are often misspelled, and fixed expressions.
 
+---
+
+- [Get the Deck of Flashcards](#get-the-deck-of-flashcards)
+  - [Download Deck](#download-deck)
+- [Get Anki](#get-anki)
+- [Mirrors](#mirrors)
+- [Warranty and Liability](#warranty-and-liability)
+- [License](#license)
+- [Contribute](#contribute)
+
+---
+
 ## Get the Deck of Flashcards
-### Download Deck from GitHub
-The file `VOCABULARY-EN-DE.txt` contains the deck with all flashcards in the Anki deck card farmat format in plain text with the `.txt` file extension. You can **[download the deck here](https://gitlab.com/jonasjacek/vocabulary-en-de-anki-flashcards/raw/master/VOCABULARY-EN-DE.txt)**. The `VOCABULARY-EN-DE.txt` file can be imported into Anki. See the Anki manual for a [detailed description](https://apps.ankiweb.net/docs/manual.html#importing).
+### Download Deck
+The file `VOCABULARY-EN-DE.txt` contains the deck with all flashcards in the Anki deck card farmat format in plain text with the `.txt` file extension. 
+You can **download the deck from [GitLab](https://gitlab.com/jonasjacek/vocabulary-en-de-anki-flashcards/raw/master/VOCABULARY-EN-DE.txt) or [GitHub](https://github.com/jonasjacek/vocabulary-en-de-anki-flashcards/raw/master/VOCABULARY-EN-DE.txt)**. 
+The file `VOCABULARY-EN-DE.txt` can be imported into Anki. See the Anki manual for a [detailed description](https://apps.ankiweb.net/docs/manual.html#importing).
 
 
 ## Get Anki
