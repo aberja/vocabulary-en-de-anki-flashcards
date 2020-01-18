@@ -1,69 +1,69 @@
-concatenate	verketten
+concatenate	<div>verketten</div>
 reciprocity	die Gegenseitigkeit
 verbatim (word for word)	wörtlich
-the requisite fee	die erforderliche Gebühr
-a requisite	Eine Notwendigkeit
-dissimilar	unähnlich, verschieden, ungleich
-panacea (pænəˈsiːə)	Allheilmittel
-commodity	Ware, Rohstoff, Gut
-to mitigate	etw. mildern
-alterations	Änderungen
-overhaul	Überholung, Generalüberholung
-underpin	untermauern, bekräftigen, stützen
-venerable	ehrwürdig
+the requisite fee	die erforderliche Gebühr<br />
+a requisite	Eine Notwendigkeit<br />
+<div>dissimilar</div>	unähnlich, verschieden, ungleich<br />
+<div>panacea (pænəˈsiːə)</div>	Allheilmittel<br />
+commodity	<div>Ware, Rohstoff, Gut</div>
+<div>to mitigate</div>	<div>etw. mildern</div>
+alterations	Änderungen<div><br /></div>
+<div>overhaul</div>	Überholung, Generalüberholung
+<div>underpin</div>	<div>untermauern, bekräftigen, stützen</div>
+venerable	ehrwürdig<br />
 to invoke sth.	etw. aufrufen, beschwören
-socratic	ausgewogen
-to demote sth.	etw. herabstufen, degradieren
-legacy	Erbe, Vermächtnis
-articulated	gelenk, gelenkig, zusammenhängend
-heritage	Erbschaft, Erbgut
-coherent	kohärent, zusammenhängend
+<div>socratic</div>	ausgewogen
+to demote sth.	etw. herabstufen, degradieren<br />
+<div>legacy</div>	Erbe, Vermächtnis
+articulated	<div>gelenk, gelenkig, zusammenhängend</div>
+<div>heritage</div>	Erbschaft, Erbgut
+<div>coherent</div>	kohärent, zusammenhängend
 constraint	Beschränkung
-intersecting	kreuzend, schneidend
-terminology	Begriffe, Terminologie
-aspect ratio	Seitenverhältnis
-stamina	Ausdauer
+<div>intersecting</div>	kreuzend,&nbsp;schneidend
+terminology	<div>Begriffe, Terminologie</div>
+<div>aspect ratio</div>	Seitenverhältnis
+stamina	<div>Ausdauer</div>
 candor	Offenheit
 flurry	Windstoß, Gestöber
 delusion	Wahn
-shred	Fetzen
-to pawn sth.	verpfänden
-to concede sb. sth.	jmd. etw. zugestehen
+shred	<div>Fetzen</div>
+to pawn sth.	<div>verpfänden</div>
+to&nbsp;concede sb. sth.	jmd. etw. zugestehen
 incredulous	ungläubig
-to culminate in sth.	in etwas gipfeln
+<div>to culminate in sth.</div>	<div>in etwas gipfeln</div>
 partial retirement	Altersteilzeit
-to append	anfügen
-spatial	räumlich, 3-Dimensional
-(Sweet)Chestnut	Esskastanie
-suspend	aussetzen
+to append	<div>anfügen</div>
+spatial	<div>räumlich, 3-Dimensional</div>
+<div>(Sweet)Chestnut</div>	Esskastanie
+suspend	<div>aussetzen</div>
 mnemonic	Eselsbrücke, Gedächtnisstütze
-to exacerbate sth.	etw. verschärfen (z.B. Situation)
-arcane	von wenigen verstanden, mysteriös, geheim
+to&nbsp;exacerbate sth.	etw. verschärfen (z.B. Situation)
+arcane	von wenigen verstanden, mysteriös, geheim<br />
 stale	schal, alt, muffig
 to allocate	zuweisen
-exhaustion	Erschöpfung
-to alleviate sth.	etw. abmildern
+exhaustion	Erschöpfung<br>
+to&nbsp;alleviate sth.	etw. abmildern<br>
 shortcomings	Mängel, Unzulänglichkeiten
 suffix	Nachsilbe
 prefix	Präfix, Vorsilbe
-to encompass sth.	umfassen, umspannen
+to&nbsp;encompass sth.	umfassen, umspannen<br>
 arbitrary	willkürlich
 to expunge sth.	etw. auslöschen
-hamstring	Kniesehne; hinterer Oberschenkel
+hamstring	Kniesehne;&nbsp;hinterer Oberschenkel
 to elaborate sth.	etw. ausarbeiten
 splinter cell	Splittergruppe
 saliva	Speichel
 Salmon	Lachs
 Trout	Forelle
-speed camera (flash 4 cash)	Blitzer
+<div>speed camera (flash 4 cash)</div>	Blitzer
 courteous	höflich
 hail (noun)	Hagel
-to take s.o. to bed	jdn. ins Bett bringen
-running machine, treadmill	Laufband
-insulation	Isolation
-repellant	abstoßend
-vowel	Vokal
-mediator	Vermittler
+to take s.o. to bed	<div>jdn. ins Bett bringen</div>
+<div>running machine, treadmill</div>	Laufband
+<div>insulation</div>	Isolation
+<div>repellant</div>	abstoßend
+<div>vowel</div>	Vokal
+<div>mediator</div>	Vermittler
 to embrace sth.	etw. umarmen, empfangen
 reckon	glauben, denken, rechnen
 SPF, sun protection factor	Lichtschutzfaktor
@@ -76,7 +76,7 @@ heat flush, hot flashes	Hitzewallungen
 bread rolls	Brötchen
 coat rack	Kleiderständer
 thigh gap	Schenkellücke
-pastel colors	Pastellfarben
+<div>pastel colors</div>	Pastellfarben
 taxi rank	Taxistand
 nifty	flott
 tame	zahm
@@ -84,101 +84,101 @@ cutlery	Besteck
 meticulous	sorgfältig
 annotation	Anmerkung
 caveat	Vorbehalt
-fair hair	blondes Haar
-affectionate	liebevoll, zärtlich, anhänglich
-train info	Infoscreen (im Zug)
-grandchildren	Enkel(kinder)
-lamb's (tongue) lettuce	Feldsalat
-parsley	Petersilie
-selfless	selbstlos
-window sill	Fensterbank, Fensterbrett
-to pursue sth.	etw. verfolgen, betreiben, nachgehen
-descent	Abstammung
-to busk	Music spielen für freiwillige Spenden
+fair hair	<div>blondes Haar</div>
+affectionate	<div>liebevoll, zärtlich, anhänglich</div>
+train info	<div>Infoscreen (im Zug)</div>
+grandchildren	<div>Enkel(kinder)</div>
+<div>lamb's (tongue) lettuce</div>	Feldsalat
+parsley	<div>Petersilie</div>
+selfless	<div>selbstlos</div>
+window sill	<div>Fensterbank, Fensterbrett</div>
+to pursue sth.	<div>etw. verfolgen, betreiben, nachgehen</div><div><br /></div>
+descent	<div>Abstammung</div>
+to busk	<div>Music spielen für freiwillige Spenden</div>
 to eschew sth.	etw. meiden
-aforementioned	vorgenannt
-hence	daher, deshalb
-sibling	geschwister, verwandte
-adjacent	angrenzend, benachbart
-to be crestfallen	geknickt sein
-tinted	getönt
-unaccountable	unerklärlich
-dysfunctional	nicht funktionierend
-to be sympathetic with	mitfühlend sein mit
+aforementioned	<div>vorgenannt</div>
+hence	<div>daher, deshalb</div>
+sibling	<div>geschwister, verwandte</div>
+adjacent	<div>angrenzend, benachbart</div>
+to be crestfallen	<div>geknickt sein</div>
+tinted	<div>getönt</div>
+unaccountable	<div>unerklärlich</div>
+<div>dysfunctional</div>	nicht funktionierend
+to be sympathetic with	<div>mitfühlend sein mit</div>
 to reckon	denken
-hostile	feindlich, feindselig
-afforded by	geboten von / geboten durch
-harsh	streng, rau, schroff
-codify	kodifizieren, verschlüsseln
-charter	Zulassung, Konzession
+hostile	<div>feindlich, feindselig</div>
+afforded by	<div>geboten von / geboten durch</div>
+harsh	<div>streng, rau, schroff</div>
+codify	<div>kodifizieren, verschlüsseln</div>
+charter	<div>Zulassung, Konzession</div>
 to anticipate sth.	etw. erwarten
-elastane	Elasthan
-polyamide	Polyamid
-ehilarating	berauschend
-to instill sth. into sb.'s mind	etw. (Gedanken/Einstellungen) einflößen
-chives	Schnittlauch
-bombshell	Bombe, plötzliche Überraschung
-treason	Verrat
-meatgrinder	Fleischwolf
-respiratory system	Atemwege, Atmungssystem
-rightfully	rechtmäßig
-frowned upon	verpönt
-graceful degradation	sanfte Degradierung Mit Graceful degradation wird eine auf Stabilität und Sicherheit gerichtete Reaktion eines Computer-Systems auf Probleme genannt, bei der das System den Betrieb so weit wie möglich aufrechterhält.
-the converse of	das Gegenteil von
-admittledly	zugegebenermaßen
-oddly	seltsam
-wrecking the user experience	Zerstörung der User Experience
+elastane	<div>Elasthan</div>
+polyamide	<div>Polyamid</div>
+ehilarating	<div>berauschend</div>
+to instill sth. into sb.'s mind	<div>etw. (Gedanken/Einstellungen) einflößen</div>
+chives	<div>Schnittlauch</div>
+bombshell	<div>Bombe, plötzliche Überraschung</div>
+treason	<div>Verrat</div>
+meatgrinder	<div>Fleischwolf</div>
+respiratory system	<div>Atemwege, Atmungssystem</div>
+rightfully	<div>rechtmäßig</div>
+frowned upon	<div>verpönt</div>
+<div>graceful degradation</div>	sanfte Degradierung<br><br>Mit Graceful degradation wird eine auf Stabilität und Sicherheit gerichtete Reaktion eines Computer-Systems auf Probleme genannt, bei der das System den Betrieb so weit wie möglich aufrechterhält.
+the converse of	<div>das Gegenteil von</div>
+admittledly	<div>zugegebenermaßen</div>
+oddly	<div>seltsam</div>
+wrecking the user experience	<div>Zerstörung der User Experience</div>
 to wreck sth.	etw. zerstören
-novelty	Neuheit
-to steer clear of sb./sth.	jmd./etw. meiden, sich von jmd./etw. fernhalten
-varied	variiert
-ubiquitous	allgegenwärtig
-readily	ohne weiteres, leicht
-to adhere to sth.	etw. einhalten
-tedious	langweilig
-albeit	wenn auch
-pain poits	Schwachstellen, Schmerzpunkte
-flounder	Flunder
+novelty	<div>Neuheit</div>
+to steer clear of sb./sth.	<div>jmd./etw. meiden, sich von jmd./etw. fernhalten</div>
+varied	<div>variiert</div>
+<div>ubiquitous</div>	allgegenwärtig
+readily	<div>ohne weiteres, leicht</div>
+to adhere to sth.	<div>etw. einhalten</div>
+tedious	<div>langweilig</div>
+albeit	<div>wenn auch</div>
+pain poits	<div>Schwachstellen, Schmerzpunkte</div>
+flounder	<div>Flunder</div>
 to be susceptible to sth.	für etw. anfällig sein
-admission	Eingeständnis
+admission	<div>Eingeständnis</div>
 down pat	aus dem Effeff
-genuine	aufrichtig, echt
-valuation	Bewertung
-to warrent sth.	etw. gewährleisten
-admission to the market	Marktzulassung
+<div>genuine</div>	aufrichtig, echt
+<div>valuation</div>	Bewertung
+to warrent sth.	<div>etw. gewährleisten</div>
+<i>admission</i> to the market	Markt<i>zulassung</i>
 palatable	schmackhaft
 diligent	fleißig
-malice	Bosheit
-ostensible	angeblich an ostensible cheerfulness concealing sadness
-to be capricious	launisch sein
+malice	<div>Bosheit</div>
+<div>ostensible</div>	angeblich<br><br>an ostensible cheerfulness concealing sadness
+to be capricious 	launisch sein
 wavering	schwanked
 to flounder	stammeln
-perception	Wahrnehmung
+perception	<div>Wahrnehmung</div>
 roque	Schelm, Gauner
-remedial	Abhilfe
+remedial	<div>Abhilfe</div>
 revulsion	Abscheu
-ostracized	geächtet
+<div>ostracized</div>	geächtet
 ransom	Lösegeld
 rye	Roggen
-unprecedented	beispiellos
+<div>unprecedented</div>	beispiellos
 spoke	Speiche
-extensive abdominal	Bauchumfang
+<div>extensive abdominal</div>	Bauchumfang
 hollow	hohl
-verbose	langatmig, wortreich
+verbose	<div>langatmig, wortreich</div>
 transient	kurzlebig
 ant trail	Ameisenstrasse
 capricorn	Steinbock
 trail	Spur, Pfad
 translucent	Transparent
 melee	Handgemenge
-laughable	lächerlich, erbärmblich
+<div>laughable</div>	lächerlich, erbärmblich
 brim	Kante, Rand
-suffocating	einengend, erstickend
+<div>suffocating</div>	einengend, erstickend
 warrant	Haftbefehl
 fate	Schicksal
-agitated	aufgewühlt, erregt
+<div>agitated</div>	aufgewühlt, erregt
 wedlock	Ehe
-to drool over sth.	nach etw. lechzen
+<div>to drool over sth.</div>	nach etw. lechzen
 comprehensive	umfassend
 to take precedence	Vorrang haben
 succinct description	kurze, prägnante Beschreibung
@@ -192,7 +192,7 @@ to slog through sth.	sich durch etw. durchschlagen
 to hold true for so./sth.	für jmdn./etw. gelten
 contraction	Kontraktion, Zusammenziehung
 deception	Täuschung
-restriction	Beschränkung
+restriction	Beschränkung 
 improper	unsachgemäß
 legibility	Lesbarkeit
 to omit sth.	etw. auslassen
@@ -201,12 +201,12 @@ flaccid	schlaff
 paper tape	Tapezierband
 to redeem sth.	etw. einlösen
 puny	kümmerlich
-to peruse sth.	etw. prüfen, durchsehen
+to&nbsp;peruse sth.	<div>etw. prüfen, durchsehen</div>
 assessment	Bewertung
 syllabus	Lehrplan
 shorthand	Kurzschreibweise
 culprit	Täter
-the likely culprit	der wahrscheinliche Täter
+the likely&nbsp;culprit	der wahrscheinliche Täter
 advantageous	vorteilhaft
 assertion	Behauptung
 intangible goods	immaterielle Güter
@@ -218,7 +218,7 @@ to be astute	schlau, scharfsinnig sein
 omission	Auslassung, Wegfall
 conundrum	Rätsel
 brittle (adj.)	spröde
-the innermost	das Innerste
+the&nbsp;innermost	das Innerste
 the outermost	das Äußerste
 unwieldy	unhandlich
 to diminish sth.	etw. vermindern, verringern
@@ -230,7 +230,7 @@ fall in someone's favor	bei jdm. in ungnade fallen
 bottle deposit	Flaschenpfand
 sophisticated	anspruchsvoll
 to twiddle sth.	etwas drehen
-peaky	kränklich
+peaky 	kränklich
 papal	päpstlich
 the latest fad	die neueste Mode
 vertices	Eckpunkte
@@ -242,20 +242,20 @@ convolution	Windung, Verschlungenheit
 reverberation	Nachhall, Hall
 a kerfuffle over sth.	eine Balgerei wegen etw.
 umbrella term	Oberbegriff
-without further ado	ohne Weiteres, kurzerhand
+without further ado&nbsp;	ohne Weiteres, kurzerhand
 trembling	Zittern
 succinctly	kurz und bündig
 assault	Angriff
 scrutiny	Überprüfung
 untimely	verfrüht, vorzeitig
-to coerce sth.	etw. erzwingen
-to solidify sth.	etw. verfestigen
+to&nbsp;coerce sth.	etw. erzwingen
+to&nbsp;solidify sth.	etw. verfestigen
 deterministic	vorhersagbar, deterministisch
 to be negligent	fahrlässig sein
 to be arduous	anstrengend sein
 to relinquish control	Kontrolle abgeben
 to take leeway	Spielraum nehmen
-to instantiate sth.	etw. instanziieren / eine Instanz erzeugen
+to instantiate sth.	etw. instanziieren /&nbsp;eine Instanz erzeugen
 tenure	Amtszeit
 exess	Selbstbeteiligung
 surgery	Chirurgie
@@ -281,22 +281,22 @@ cameo	Name eines Schmuckstücks. Typischerweise oval, bestehend aus einem Portr�
 versatil	vielseitig
 to be aghast	erschauern, entgeistert sein.
 gall [2]	Galle, Frechheit
-to be ramshackle	baufällig, morsch, klapprig sein
-to be ample	reichlich, hinreichend, genügend sein
+to be ramshackle	baufällig, morsch, klapprig sein 
+to be ample	reichlich, hinreichend,  genügend sein
 every other week	jede 2. Woche
 hinge system	Scharniersystem
 tinkerer	Tüftler
 deeds	Taten
 trajectory	Flugbahn
 literacy	Alphabetisierung
-to resonate	mitschwingen
+to&nbsp;resonate	mitschwingen
 inception	Beginn, Anfang
 facilitator	Vermittler
 participatory	teilnehmend, mitwirkend
 consecutive	fortlaufend (aufeinander folgend)
 allegation	Vorwurf, Anschldigung, Beschuldigung
 to emanate from sth.	von etw. ausströmen, ausstrahlen
-to be keen on sth.	auf etw. scharf sein, von etw. begeistert sein
+to be keen on sth.	auf etw. scharf sein,<div>von etw. begeistert sein</div>
 nocturnal	nächtlich
 to pertain to sth.	zu etw. gehören
 to be candid	offen sein
@@ -310,7 +310,7 @@ to be distinct from	sich unterscheiden
 the multiplex	der Mehrfachbetrieb
 to multiplex sth.	etw. bündeln
 resurrection	die Auferstehung
-on the verge of sth.	am Rande von etw. z.B. am Rande des Aussterbens.
+on the verge of sth.	am Rande von etw.<br><br>z.B. am Rande des Aussterbens.
 to be petulant	gereizt, launisch sein
 infinity	unendlich, Unendlichkeit
 some good arguments	einige gute Argumente
@@ -328,7 +328,7 @@ to waive sth.	auf etwas verzichten
 trailblazer	Wegbereiter
 acute	akut
 upheaval	umstürzen
-air quotes	in Anführungszeichen Air quotes are a pair of quotation marks gestured by a speaker's fingers in the air, to indicate that what is being said is ironic or mocking, or is not a turn of phrase the speaker would typically employ.
+air quotes	<div>in Anführungszeichen</div><div><br /></div>Air quotes are a pair of quotation marks gestured by a speaker's fingers in the air, to indicate that what is being said is ironic or mocking, or is not a turn of phrase the speaker would typically employ.
 manslaughter	Totschlag, fahrlässige Tötung
 the envoy	der (Ab)gesandte, der Bote
 veneer	Furnier, Anstrich
@@ -339,16 +339,16 @@ ponderous	schwerfällig
 to defuse a situation.	eine Situation entschärfen
 to aggravate sth.	etw. verschlimmern, erschweren
 eggplant	Aubergine
-famine	Hungersnot
+famine	Hungersnot 
 to embellish sth.	etw. verschönern
 grandeur	Größe
 splendor	Pracht
 chieftain	Häuptling
 Food for thought	Denkanstoß, Stoff zum Nachdenken
 to put sth. into question	etw. in Frage stellen
-to bring sth. into line	etw. ausrichten
+to bring sth. into line	etw.  ausrichten
 vertex	Höhepunkt, Spitze
-saccades	Sakkaden, Augenbewegungen
+saccades	Sakkaden,&nbsp;Augenbewegungen
 ice cream cone	Eistüte
 attuned	Abgestimmt
 proximity	räumliche Nähe
@@ -365,7 +365,7 @@ to endow sth.	etw. schenken
 sonic boom	Überschallknall
 remuneration	Vergütung
 deviation from contract	Abweichung vom Vertrag
-to preclude sth.	etw. ausschließen
+to preclude sth.	etw. ausschließen 
 discernible	erkennbar
 flogging	Auspeitschen
 accrual	Rückstellung
@@ -377,8 +377,8 @@ cladding	Verkleidung
 to be protracted	langwierig sein
 short hand	Kürzel, Kurzschrift
 liken	vergleichen
-parentheses	ae. runde Klammern ()
-round brackets	be. runde Klammern ()
+parentheses	<i>ae.</i> runde Klammern ()
+round brackets	<i>be.</i>&nbsp;runde Klammern ()
 to impose sth.	etwas aufzwingen
 brittle (noun)	Krokant
 to be conceivable	denkbar sein
@@ -480,7 +480,7 @@ negligent	fahrlässig
 procedurally	prozessual
 to supersede sbd. or sth.	jmd. oder etw. ersetzen
 raft	Floß
-unknotting	entknote
+unknotting	entknote 
 untangle	entwirren
 accusation	Vorwurf
 to elicit sth.	etwas entlocken
@@ -488,7 +488,7 @@ poignant	ergreifend
 tomboy	Wildfang
 soluble	löslich
 dejected	niedergeschlagen, depressed
-unforgiving	nachtragend
+unforgiving 	nachtragend
 cognizant	erkennend, wahrnehmend
 ambush	Hinterhalt
 reproachfully	vorwurfsvoll
@@ -503,12 +503,12 @@ punitive	strafend
 coercion	Zwang
 corporal punishment	körperliche Bestrafung
 efficacy	Wirksamkeit
-empiricism	Empirismus
+empiricism	<div></div>Empirismus
 to deviate from sth.	von etw. abweichen
 proficient	geübt
 impediment	Behinderung
 to depreciate sth.	etw. abwerten
-immutable	unveränderlich
+immutable	<div></div>unveränderlich
 increment	Zuwachs
 confluent	zusammenlaufend
 to defer sth.	etw. aufschieben
@@ -571,7 +571,7 @@ to prune sth.	etw. beschneiden, wegstreichen
 to be evious	neidisch sein
 exaggerated	übertrieben
 serendipity	Fügung, Glücksfall
-to curtail sth.	etw. kürzen, etw. einschränken
+&nbsp;to curtail sth.	etw. kürzen,<div>etw.&nbsp;einschränken</div>
 vagaries of life	Launen des Lebens
 ambiguious	mehrdeutig
 train driver	Lokführer
@@ -596,3 +596,4 @@ precedent	Präzedenzfall
 to hamstring sth.	etw. lahmlegen
 disbursement	Auszahlung
 installment (finance)	Teilzahlung
+ephemeral	flüchtig, kurzlebig
