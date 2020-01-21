@@ -598,3 +598,7 @@ disbursement	Auszahlung
 installment (finance)	Teilzahlung
 ephemeral	flüchtig, kurzlebig
 under the auspices of	unter der Schirmherrschaft von
+to supersede someone / something	jemanden / etwas verdrängen
+to encompass	umfassen, umgeben
+to reconcile	abgleichen, abstimmen
+to reconcile sth. with sth.	etw. mit etw. in Einklang bringen
