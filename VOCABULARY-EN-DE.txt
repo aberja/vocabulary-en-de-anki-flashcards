@@ -149,13 +149,13 @@ admission to the market	Marktzulassung
 palatable	schmackhaft
 diligent	fleißig
 malice	Bosheit
-ostensible	angeblich an ostensible cheerfulness concealing sadness
+ostensible	angeblich
 to be capricious	launisch sein
 wavering	schwanked
 to flounder	stammeln
 perception	Wahrnehmung
 roque	Schelm, Gauner
-remedial	Abhilfe
+remedial	Abhilfe schaffen
 revulsion	Abscheu
 ostracized	geächtet
 ransom	Lösegeld
@@ -294,19 +294,19 @@ inception	Beginn, Anfang
 facilitator	Vermittler
 participatory	teilnehmend, mitwirkend
 consecutive	fortlaufend (aufeinander folgend)
-allegation	Vorwurf, Anschldigung, Beschuldigung
+allegation	Vorwurf, Anschuldigung, Beschuldigung
 to emanate from sth.	von etw. ausströmen, ausstrahlen
 to be keen on sth.	auf etw. scharf sein, von etw. begeistert sein
 nocturnal	nächtlich
-to pertain to sth.	zu etw. gehören
-to be candid	offen sein
+to pertain to so./sth.	zu jmdm./etw. gehören
+to be candid	offen, aufrichtig, ehrlich sein
 succint	kurz
 to haggle	feilschen
 entrust	anvertrauen
 leeway	Spielraum
 ancestor	Vorfahr
-conduit	Rohrleitung
-to be distinct from	sich unterscheiden
+conduit pipe	Leitungsrohr
+to be distinct from	sich unterscheiden von
 the multiplex	der Mehrfachbetrieb
 to multiplex sth.	etw. bündeln
 resurrection	die Auferstehung
@@ -315,7 +315,7 @@ to be petulant	gereizt, launisch sein
 infinity	unendlich, Unendlichkeit
 some good arguments	einige gute Argumente
 jitney	unlicensed taxi cab
-reprehensible	verwerflich
+reprehensible	verwerflich, unmoralisch
 to misconstrue sth.	etw. missdeuten, fehldeuten
 bonafide	ehrlich, aufrichtig
 to be unrepentant	reuelos, ohne Reue sein
@@ -602,3 +602,4 @@ to supersede someone / something	jemanden / etwas verdrängen
 to encompass	umfassen, umgeben
 to reconcile	abgleichen, abstimmen
 to reconcile sth. with sth.	etw. mit etw. in Einklang bringen
+to multiplex	bündeln
