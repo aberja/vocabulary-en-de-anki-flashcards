@@ -49,7 +49,7 @@ prefix	Präfix, Vorsilbe
 to encompass sth.	umfassen, umspannen
 arbitrary	willkürlich
 to expunge sth.	etw. auslöschen
-hamstring	Kniesehne; hinterer Oberschenkel
+hamstring	hinterer Oberschenkelmuskel
 to elaborate sth.	etw. ausarbeiten
 splinter cell	Splittergruppe
 saliva	Speichel
@@ -155,7 +155,7 @@ wavering	schwanked
 to flounder	stammeln
 perception	Wahrnehmung
 roque	Schelm, Gauner
-remedial	Abhilfe schaffen
+remedial	abhelfend
 revulsion	Abscheu
 ostracized	geächtet
 ransom	Lösegeld
@@ -344,7 +344,7 @@ to embellish sth.	etw. verschönern
 grandeur	Größe
 splendor	Pracht
 chieftain	Häuptling
-Food for thought	Denkanstoß, Stoff zum Nachdenken
+food for thought	Denkanstoß
 to put sth. into question	etw. in Frage stellen
 to bring sth. into line	etw. ausrichten
 vertex	Höhepunkt, Spitze
@@ -603,3 +603,6 @@ to encompass	umfassen, umgeben
 to reconcile	abgleichen, abstimmen
 to reconcile sth. with sth.	etw. mit etw. in Einklang bringen
 to multiplex	bündeln
+alkaline	basisch
+splendid	prächtig, herrlich
+envious	neidisch
