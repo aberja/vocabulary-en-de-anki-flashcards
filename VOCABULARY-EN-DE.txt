@@ -606,3 +606,4 @@ to multiplex	bündeln
 alkaline	basisch
 splendid	prächtig, herrlich
 envious	neidisch
+to provision sth.	etw. bereitstellen
