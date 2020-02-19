@@ -607,3 +607,9 @@ alkaline	basisch
 splendid	prächtig, herrlich
 envious	neidisch
 to provision sth.	etw. bereitstellen
+to defuse sth.	etw. entschärfen
+ingress	Eingang, Zugang
+to augment	zunehmen
+proofreading	Korrekturlesen
+moot	irrelevant
+ensnare	verstricken, umgarnen
