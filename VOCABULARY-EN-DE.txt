@@ -613,3 +613,6 @@ to augment	zunehmen
 proofreading	Korrekturlesen
 moot	irrelevant
 ensnare	verstricken, umgarnen
+perspicacity	Scharfsinn
+to invoke	aufrufen
+particularly	insbesondere

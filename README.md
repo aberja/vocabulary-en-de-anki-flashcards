@@ -1,5 +1,5 @@
 # Deck of Anki flashcards with English-German vocabulary
-**Contains a deck of 615 flashcards of vocabularies to learn either English-German or German-English with the [Anki](https://apps.ankiweb.net/) flashcard system.**
+**Contains a deck of 618 flashcards of vocabularies to learn either English-German or German-English with the [Anki](https://apps.ankiweb.net/) flashcard system.**
 
 The deck is suitable for advanced speakers. It contains terms wich are less frequently used or which are often misspelled (by the author), and fixed expressions.
 
@@ -54,4 +54,4 @@ You can find this repository at:
 
 ## Contribute
 
-**Found a mistake? Want to help? Send a pull request!**
+Found a mistake? [Open an issue](https://gitlab.com/jonasjacek/vocabulary-en-de-anki-flashcards/-/issues) or [send a merge request](https://gitlab.com/jonasjacek/vocabulary-en-de-anki-flashcards/-/merge_requests). Want to help in another way? [Contact me](https://www.jonas.me/contact).
