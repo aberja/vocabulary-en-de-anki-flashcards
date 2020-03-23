@@ -616,3 +616,5 @@ ensnare	verstricken, umgarnen
 perspicacity	Scharfsinn
 to invoke	aufrufen
 particularly	insbesondere
+to engulf	verschlingen
+in limbo	in der Schwebe
