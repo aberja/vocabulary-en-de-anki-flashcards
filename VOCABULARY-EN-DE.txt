@@ -618,3 +618,5 @@ to invoke	aufrufen
 particularly	insbesondere
 to engulf	verschlingen
 in limbo	in der Schwebe
+spouse	Ehepartner
+nested	verschachtelt
