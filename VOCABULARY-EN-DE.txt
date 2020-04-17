@@ -620,3 +620,4 @@ to engulf	verschlingen
 in limbo	in der Schwebe
 spouse	Ehepartner
 nested	verschachtelt
+gripe	meckern
